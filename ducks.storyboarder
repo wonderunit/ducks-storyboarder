@@ -1,0 +1,2020 @@
+{
+  "version": "0.8.0",
+  "aspectRatio": 2.39,
+  "fps": 24,
+  "defaultBoardTiming": "2001",
+  "boards": [
+    {
+      "uid": "42VR9",
+      "url": "board-2-42VR9.png",
+      "newShot": true,
+      "lastEdited": 1500573659774,
+      "layers": {
+        "reference": {
+          "url": "board-2-42VR9-reference.png"
+        },
+        "notes": {
+          "url": "board-2-42VR9-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 0,
+      "notes": "TITLE CARD: DUCKS",
+      "duration": 2000
+    },
+    {
+      "uid": "J74F5",
+      "url": "board-2-J74F5.png",
+      "newShot": true,
+      "lastEdited": 1500497960644,
+      "layers": {
+        "reference": {
+          "url": "board-2-J74F5-reference.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 9.947787186607343,
+      "duration": 500
+    },
+    {
+      "uid": "P2FLS",
+      "url": "board-0-P2FLS.png",
+      "layers": {
+        "reference": {
+          "url": "board-0-P2FLS-reference.png"
+        },
+        "notes": {
+          "url": "board-0-P2FLS-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 3,
+      "shot": "2B",
+      "time": 2500,
+      "lineMileage": 23.679854997875083,
+      "action": "Ducks are walking across the street.",
+      "duration": 1000
+    },
+    {
+      "uid": "WEBM4",
+      "url": "board-1-WEBM4.png",
+      "layers": {
+        "reference": {
+          "url": "board-1-WEBM4-reference.png"
+        },
+        "notes": {
+          "url": "board-1-WEBM4-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 4,
+      "shot": "2C",
+      "time": 3500,
+      "lineMileage": 5.919963749468871,
+      "duration": 1000
+    },
+    {
+      "uid": "EJZQX",
+      "url": "board-2-EJZQX.png",
+      "layers": {
+        "reference": {
+          "url": "board-2-EJZQX-reference.png"
+        },
+        "notes": {
+          "url": "board-2-EJZQX-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 5,
+      "shot": "2D",
+      "time": 4500,
+      "lineMileage": 11902.37047979027,
+      "dialogue": "Shoo! Shoo! Go! Go! Go!",
+      "duration": 1500
+    },
+    {
+      "uid": "4O9FV",
+      "url": "board-3-4O9FV.png",
+      "layers": {
+        "reference": {
+          "url": "board-3-4O9FV-reference.png"
+        },
+        "notes": {
+          "url": "board-3-4O9FV-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 6,
+      "shot": "2E",
+      "time": 6000,
+      "lineMileage": 76.95952874309404,
+      "action": "The ducks start playing around his feet.",
+      "dialogue": "*QUACK*",
+      "duration": 2000
+    },
+    {
+      "uid": "495D1",
+      "url": "board-4-495D1.png",
+      "layers": {
+        "reference": {
+          "url": "board-4-495D1-reference.png"
+        },
+        "notes": {
+          "url": "board-4-495D1-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 7,
+      "shot": "2F",
+      "time": 8000,
+      "lineMileage": 94.71941999150033,
+      "dialogue": "No! Go go go go!",
+      "duration": 800
+    },
+    {
+      "uid": "WDO46",
+      "url": "board-7-WDO46.png",
+      "newShot": false,
+      "lastEdited": 1500497996023,
+      "layers": {
+        "reference": {
+          "url": "board-7-WDO46-reference.png"
+        },
+        "notes": {
+          "url": "board-7-WDO46-notes.png"
+        }
+      },
+      "number": 8,
+      "shot": "2G",
+      "time": 8800,
+      "lineMileage": 2048.3074573161957,
+      "duration": 800
+    },
+    {
+      "uid": "33F4O",
+      "url": "board-5-33F4O.png",
+      "layers": {
+        "reference": {
+          "url": "board-5-33F4O-reference.png"
+        },
+        "notes": {
+          "url": "board-5-33F4O-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 9,
+      "shot": "3A",
+      "time": 9600,
+      "lineMileage": 49.49539312055842,
+      "action": "As he shoos them off, they walk into the middle of the street.",
+      "duration": 1000
+    },
+    {
+      "uid": "JXFUM",
+      "url": "board-8-JXFUM.png",
+      "layers": {
+        "reference": {
+          "url": "board-8-JXFUM-reference.png"
+        },
+        "notes": {
+          "url": "board-8-JXFUM-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500499250211,
+      "number": 10,
+      "shot": "3B",
+      "time": 10600,
+      "lineMileage": 45.46756968341985,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 2000
+    },
+    {
+      "uid": "UKHG1",
+      "url": "board-11-UKHG1.png",
+      "layers": {
+        "reference": {
+          "url": "board-11-UKHG1-reference.png"
+        },
+        "notes": {
+          "url": "board-11-UKHG1-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500599220580,
+      "number": 11,
+      "shot": "3C",
+      "time": 12600,
+      "lineMileage": 45.46756968341985,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 0
+    },
+    {
+      "uid": "PUZ32",
+      "url": "board-12-PUZ32.png",
+      "layers": {
+        "reference": {
+          "url": "board-12-PUZ32-reference.png"
+        },
+        "notes": {
+          "url": "board-12-PUZ32-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500599230332,
+      "number": 12,
+      "shot": "3D",
+      "time": 14600,
+      "lineMileage": 45.46756968341985,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 0
+    },
+    {
+      "uid": "HHVJE",
+      "url": "board-6-HHVJE.png",
+      "layers": {
+        "reference": {
+          "url": "board-6-HHVJE-reference.png"
+        },
+        "notes": {
+          "url": "board-6-HHVJE-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 13,
+      "shot": "4A",
+      "time": 16600,
+      "lineMileage": 5.919963749468871,
+      "duration": 500
+    },
+    {
+      "uid": "RS8RZ",
+      "url": "board-10-RS8RZ.png",
+      "newShot": false,
+      "lastEdited": 1500499040628,
+      "layers": {
+        "reference": {
+          "url": "board-10-RS8RZ-reference.png"
+        },
+        "notes": {
+          "url": "board-10-RS8RZ-notes.png"
+        }
+      },
+      "number": 14,
+      "shot": "4B",
+      "time": 17100,
+      "lineMileage": 77.14665403402549,
+      "duration": 1000
+    },
+    {
+      "newShot": false,
+      "layers": {
+        "reference": {
+          "url": "board-10-AOWL3-reference.png"
+        },
+        "notes": {
+          "url": "board-10-AOWL3-notes.png"
+        }
+      },
+      "uid": "AOWL3",
+      "lastEdited": 1500499117141,
+      "url": "board-10-AOWL3.png",
+      "number": 15,
+      "shot": "4C",
+      "time": 18100,
+      "lineMileage": 82.87949249256292,
+      "duration": 1000
+    },
+    {
+      "uid": "PDX9U",
+      "url": "board-7-PDX9U.png",
+      "layers": {
+        "reference": {
+          "url": "board-7-PDX9U-reference.png"
+        },
+        "notes": {
+          "url": "board-7-PDX9U-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 16,
+      "shot": "4D",
+      "time": 19100,
+      "lineMileage": 0,
+      "duration": 200
+    },
+    {
+      "uid": "TTPBZ",
+      "url": "board-8-TTPBZ.png",
+      "layers": {
+        "reference": {
+          "url": "board-8-TTPBZ-reference.png"
+        },
+        "notes": {
+          "url": "board-8-TTPBZ-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 17,
+      "shot": "4E",
+      "time": 19300,
+      "lineMileage": 0,
+      "dialogue": "WHUUH!?",
+      "duration": 1000
+    },
+    {
+      "uid": "HCG48",
+      "url": "board-9-HCG48.png",
+      "layers": {
+        "reference": {
+          "url": "board-9-HCG48-reference.png"
+        },
+        "notes": {
+          "url": "board-9-HCG48-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 18,
+      "shot": "5A",
+      "time": 20300,
+      "lineMileage": 9.947787186607432,
+      "dialogue": "**HONK HONK**",
+      "duration": 800
+    },
+    {
+      "uid": "HPGDX",
+      "url": "board-15-HPGDX.png",
+      "layers": {
+        "reference": {
+          "url": "board-15-HPGDX-reference.png"
+        },
+        "notes": {
+          "url": "board-15-HPGDX-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500508821194,
+      "number": 19,
+      "shot": "5B",
+      "time": 21100,
+      "lineMileage": 5.919963749468871,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 800
+    },
+    {
+      "uid": "2MO1N",
+      "url": "board-10-2MO1N.png",
+      "layers": {
+        "reference": {
+          "url": "board-10-2MO1N-reference.png"
+        },
+        "notes": {
+          "url": "board-10-2MO1N-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 20,
+      "shot": "6A",
+      "time": 21900,
+      "dialogue": "*HONK*",
+      "duration": 800
+    },
+    {
+      "uid": "1CPHV",
+      "url": "board-17-1CPHV.png",
+      "layers": {
+        "reference": {
+          "url": "board-17-1CPHV-reference.png"
+        },
+        "notes": {
+          "url": "board-17-1CPHV-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500509084236,
+      "number": 21,
+      "shot": "6B",
+      "time": 22700,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 800
+    },
+    {
+      "uid": "4PCZU",
+      "url": "board-11-4PCZU.png",
+      "layers": {
+        "reference": {
+          "url": "board-11-4PCZU-reference.png"
+        },
+        "notes": {
+          "url": "board-11-4PCZU-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 22,
+      "shot": "7A",
+      "time": 23500,
+      "action": "Theres a big truck coming towards them.",
+      "duration": 800
+    },
+    {
+      "uid": "GOFSJ",
+      "url": "board-19-GOFSJ.png",
+      "layers": {
+        "reference": {
+          "url": "board-19-GOFSJ-reference.png"
+        },
+        "notes": {
+          "url": "board-19-GOFSJ-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500509719799,
+      "number": 23,
+      "shot": "7B",
+      "time": 24300,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 800
+    },
+    {
+      "uid": "4QNOG",
+      "url": "board-12-4QNOG.png",
+      "layers": {
+        "reference": {
+          "url": "board-12-4QNOG-reference.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 24,
+      "shot": "8A",
+      "time": 25100,
+      "duration": 2000
+    },
+    {
+      "uid": "K1L0U",
+      "url": "board-13-K1L0U.png",
+      "layers": {
+        "reference": {
+          "url": "board-13-K1L0U-reference.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 25,
+      "shot": "8B",
+      "time": 27100,
+      "action": "The ducks look towards it.",
+      "duration": 1000
+    },
+    {
+      "uid": "H27S7",
+      "url": "board-14-H27S7.png",
+      "layers": {
+        "reference": {
+          "url": "board-14-H27S7-reference.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 26,
+      "shot": "9A",
+      "time": 28100,
+      "lineMileage": 4.027823437138561,
+      "action": "They see a puddle.",
+      "duration": 1000
+    },
+    {
+      "uid": "UKQBK",
+      "url": "board-15-UKQBK.png",
+      "layers": {
+        "reference": {
+          "url": "board-15-UKQBK-reference.png"
+        },
+        "notes": {
+          "url": "board-15-UKQBK-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 27,
+      "shot": "9B",
+      "time": 29100,
+      "lineMileage": 4.027823437138566,
+      "action": "They start walking towards it.",
+      "duration": 500
+    },
+    {
+      "uid": "ZJW5J",
+      "url": "board-16-ZJW5J.png",
+      "layers": {
+        "reference": {
+          "url": "board-16-ZJW5J-reference.png"
+        },
+        "notes": {
+          "url": "board-16-ZJW5J-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417576275,
+      "number": 28,
+      "shot": "10A",
+      "time": 29600,
+      "lineMileage": 0,
+      "dialogue": "Noooo!",
+      "duration": 500
+    },
+    {
+      "uid": "AEM85",
+      "url": "board-26-AEM85.png",
+      "newShot": false,
+      "lastEdited": 1500510922170,
+      "layers": {
+        "reference": {
+          "url": "board-26-AEM85-reference.png"
+        },
+        "notes": {
+          "url": "board-26-AEM85-notes.png"
+        }
+      },
+      "number": 29,
+      "shot": "10B",
+      "time": 30100,
+      "lineMileage": 8.055646874277123,
+      "action": "He trips on a pot hole.",
+      "duration": 500
+    },
+    {
+      "uid": "LQIU5",
+      "url": "board-17-LQIU5.png",
+      "layers": {
+        "reference": {
+          "url": "board-17-LQIU5-reference.png"
+        },
+        "notes": {
+          "url": "board-17-LQIU5-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 30,
+      "shot": "10C",
+      "time": 30600,
+      "lineMileage": 4.027823437138571,
+      "duration": 500
+    },
+    {
+      "uid": "09PRG",
+      "url": "board-18-09PRG.png",
+      "layers": {
+        "reference": {
+          "url": "board-18-09PRG-reference.png"
+        },
+        "notes": {
+          "url": "board-18-09PRG-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 31,
+      "shot": "10D",
+      "time": 31100,
+      "lineMileage": 0,
+      "action": "Gets up.",
+      "duration": 500
+    },
+    {
+      "uid": "YGQZ4",
+      "url": "board-19-YGQZ4.png",
+      "layers": {
+        "reference": {
+          "url": "board-19-YGQZ4-reference.png"
+        },
+        "notes": {
+          "url": "board-19-YGQZ4-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417576275,
+      "number": 32,
+      "shot": "10E",
+      "time": 31600,
+      "lineMileage": 8.055646874277143,
+      "action": "Runs.",
+      "duration": 500
+    },
+    {
+      "uid": "SM2EK",
+      "url": "board-30-SM2EK.png",
+      "newShot": false,
+      "lastEdited": 1500511354588,
+      "layers": {
+        "reference": {
+          "url": "board-30-SM2EK-reference.png"
+        }
+      },
+      "number": 33,
+      "shot": "10F",
+      "time": 32100,
+      "lineMileage": 4.027823437138566,
+      "duration": 500
+    },
+    {
+      "uid": "0MQ4I",
+      "url": "board-0-0MQ4I.png",
+      "layers": {
+        "reference": {
+          "url": "board-0-0MQ4I-reference.png"
+        },
+        "notes": {
+          "url": "board-0-0MQ4I-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 34,
+      "shot": "11A",
+      "time": 32600,
+      "lineMileage": 24.16694062283137,
+      "action": "The ducks are just splashing in the water.",
+      "duration": 2000,
+      "dialogue": "*QUACK*"
+    },
+    {
+      "uid": "JZLKF",
+      "url": "board-1-JZLKF.png",
+      "layers": {
+        "reference": {
+          "url": "board-1-JZLKF-reference.png"
+        },
+        "notes": {
+          "url": "board-1-JZLKF-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 35,
+      "shot": "12A",
+      "time": 34600,
+      "lineMileage": 4.027823437138561,
+      "action": "Construction worker is freaking out.",
+      "duration": 2000
+    },
+    {
+      "uid": "ALDAW",
+      "url": "board-2-ALDAW.png",
+      "layers": {
+        "reference": {
+          "url": "board-2-ALDAW-reference.png"
+        },
+        "notes": {
+          "url": "board-2-ALDAW-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 36,
+      "shot": "13A",
+      "time": 36600,
+      "lineMileage": 0,
+      "action": "The trucks coming forward.",
+      "duration": 500
+    },
+    {
+      "uid": "HI9RU",
+      "url": "board-33-HI9RU.png",
+      "layers": {
+        "reference": {
+          "url": "board-33-HI9RU-reference.png"
+        },
+        "notes": {
+          "url": "board-33-HI9RU-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500512706129,
+      "number": 37,
+      "shot": "13B",
+      "time": 37100,
+      "lineMileage": 0,
+      "dialogue": "*HONK*",
+      "action": "",
+      "notes": "",
+      "duration": 500
+    },
+    {
+      "uid": "HWVBR",
+      "url": "board-3-HWVBR.png",
+      "layers": {
+        "reference": {
+          "url": "board-3-HWVBR-reference.png"
+        },
+        "notes": {
+          "url": "board-3-HWVBR-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 38,
+      "shot": "14A",
+      "time": 37600,
+      "lineMileage": 12.083470311415692,
+      "action": "He runs out into the street.",
+      "duration": 500
+    },
+    {
+      "uid": "6GQZ8",
+      "url": "board-35-6GQZ8.png",
+      "layers": {
+        "reference": {
+          "url": "board-35-6GQZ8-reference.png"
+        },
+        "notes": {
+          "url": "board-35-6GQZ8-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500513146179,
+      "number": 39,
+      "shot": "14B",
+      "time": 38100,
+      "lineMileage": 8.055646874277137,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 500
+    },
+    {
+      "uid": "ERZ7C",
+      "url": "board-4-ERZ7C.png",
+      "layers": {
+        "reference": {
+          "url": "board-4-ERZ7C-reference.png"
+        },
+        "notes": {
+          "url": "board-4-ERZ7C-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 40,
+      "shot": "15A",
+      "time": 38600,
+      "lineMileage": 20.139117185692815,
+      "duration": 500
+    },
+    {
+      "uid": "1VWPJ",
+      "url": "board-37-1VWPJ.png",
+      "layers": {
+        "reference": {
+          "url": "board-37-1VWPJ-reference.png"
+        },
+        "notes": {
+          "url": "board-37-1VWPJ-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500514305317,
+      "number": 41,
+      "shot": "15B",
+      "time": 39100,
+      "lineMileage": 12.083470311415681,
+      "dialogue": "",
+      "action": "He takes off his hard hat.",
+      "notes": "",
+      "duration": 500
+    },
+    {
+      "uid": "3YLLW",
+      "url": "board-39-3YLLW.png",
+      "newShot": false,
+      "lastEdited": 1500513748615,
+      "layers": {
+        "reference": {
+          "url": "board-39-3YLLW-reference.png"
+        },
+        "notes": {
+          "url": "board-39-3YLLW-notes.png"
+        }
+      },
+      "number": 42,
+      "shot": "15C",
+      "time": 39600,
+      "lineMileage": 12.083470311415834,
+      "duration": 500
+    },
+    {
+      "uid": "QXGEQ",
+      "url": "board-5-QXGEQ.png",
+      "layers": {
+        "reference": {
+          "url": "board-5-QXGEQ-reference.png"
+        },
+        "notes": {
+          "url": "board-5-QXGEQ-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 43,
+      "shot": "15D",
+      "time": 40100,
+      "lineMileage": 16.111293748554246,
+      "action": "He's scooping the ducks into his hat.",
+      "duration": 500
+    },
+    {
+      "uid": "MMIGR",
+      "url": "board-41-MMIGR.png",
+      "newShot": false,
+      "lastEdited": 1500514526204,
+      "layers": {
+        "reference": {
+          "url": "board-41-MMIGR-reference.png"
+        },
+        "notes": {
+          "url": "board-41-MMIGR-notes.png"
+        }
+      },
+      "number": 44,
+      "shot": "15E",
+      "time": 40600,
+      "lineMileage": 0,
+      "action": "He juggles around the wiggly ducks.",
+      "duration": 500
+    },
+    {
+      "uid": "GRW8E",
+      "url": "board-6-GRW8E.png",
+      "layers": {
+        "reference": {
+          "url": "board-6-GRW8E-reference.png"
+        },
+        "notes": {
+          "url": "board-6-GRW8E-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 45,
+      "shot": "15F",
+      "time": 41100,
+      "lineMileage": 32.22258749710843,
+      "duration": 500
+    },
+    {
+      "uid": "AW968",
+      "url": "board-7-AW968.png",
+      "layers": {
+        "reference": {
+          "url": "board-7-AW968-reference.png"
+        },
+        "notes": {
+          "url": "board-7-AW968-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 46,
+      "shot": "16A",
+      "time": 41600,
+      "lineMileage": 24.166940622831365,
+      "action": "He's got them all in his hat.",
+      "duration": 1000
+    },
+    {
+      "uid": "NBWIK",
+      "url": "board-43-NBWIK.png",
+      "layers": {
+        "reference": {
+          "url": "board-43-NBWIK-reference.png"
+        },
+        "notes": {
+          "url": "board-43-NBWIK-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500516120706,
+      "number": 47,
+      "shot": "16B",
+      "time": 42600,
+      "lineMileage": 44.30605780852418,
+      "dialogue": "*QUACK*",
+      "action": "",
+      "notes": "",
+      "duration": 1000
+    },
+    {
+      "uid": "443II",
+      "url": "board-45-443II.png",
+      "newShot": true,
+      "lastEdited": 1500559241969,
+      "layers": {
+        "reference": {
+          "url": "board-45-443II-reference.png"
+        },
+        "notes": {
+          "url": "board-45-443II-notes.png"
+        }
+      },
+      "number": 48,
+      "shot": "17A",
+      "time": 43600,
+      "lineMileage": 3368.45937344773,
+      "duration": 1000
+    },
+    {
+      "uid": "DCQTU",
+      "url": "board-46-DCQTU.png",
+      "newShot": false,
+      "lastEdited": 1500559259003,
+      "layers": {},
+      "number": 49,
+      "shot": "17B",
+      "time": 44600,
+      "lineMileage": 3907.1760746493883,
+      "action": "He looks over at the truck.",
+      "duration": 500
+    },
+    {
+      "uid": "EXC05",
+      "url": "board-8-EXC05.png",
+      "layers": {
+        "reference": {
+          "url": "board-8-EXC05-reference.png"
+        },
+        "notes": {
+          "url": "board-8-EXC05-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 50,
+      "shot": "18A",
+      "time": 45100,
+      "lineMileage": 0,
+      "dialogue": "*HONK HONK*",
+      "duration": 500
+    },
+    {
+      "uid": "334GO",
+      "url": "board-45-334GO.png",
+      "layers": {
+        "reference": {
+          "url": "board-45-334GO-reference.png"
+        },
+        "notes": {
+          "url": "board-45-334GO-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500516992725,
+      "number": 51,
+      "shot": "18B",
+      "time": 45600,
+      "lineMileage": 0,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 500
+    },
+    {
+      "uid": "MKSWE",
+      "url": "board-9-MKSWE.png",
+      "layers": {
+        "reference": {
+          "url": "board-9-MKSWE-reference.png"
+        },
+        "notes": {
+          "url": "board-9-MKSWE-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 52,
+      "shot": "19A",
+      "time": 46100,
+      "lineMileage": 4.027823437138561,
+      "action": "The worker flings his hard hat like a frisbee.",
+      "duration": 500
+    },
+    {
+      "uid": "VXA2V",
+      "url": "board-47-VXA2V.png",
+      "layers": {
+        "reference": {
+          "url": "board-47-VXA2V-reference.png"
+        },
+        "notes": {
+          "url": "board-47-VXA2V-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500517369976,
+      "number": 53,
+      "shot": "19B",
+      "time": 46600,
+      "lineMileage": 12.083470311415681,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 500
+    },
+    {
+      "uid": "IME46",
+      "url": "board-50-IME46.png",
+      "newShot": true,
+      "lastEdited": 1500520821240,
+      "layers": {
+        "reference": {
+          "url": "board-50-IME46-reference.png"
+        },
+        "notes": {
+          "url": "board-50-IME46-notes.png"
+        }
+      },
+      "number": 54,
+      "shot": "20A",
+      "time": 47100,
+      "lineMileage": 24.166940622831493,
+      "duration": 500
+    },
+    {
+      "uid": "5CCP1",
+      "url": "board-49-5CCP1.png",
+      "newShot": false,
+      "lastEdited": 1500520994128,
+      "layers": {
+        "reference": {
+          "url": "board-49-5CCP1-reference.png"
+        },
+        "notes": {
+          "url": "board-49-5CCP1-notes.png"
+        }
+      },
+      "number": 55,
+      "shot": "20B",
+      "time": 47600,
+      "lineMileage": 24.166940622831493,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 500
+    },
+    {
+      "uid": "70WPY",
+      "url": "board-12-70WPY.png",
+      "layers": {
+        "reference": {
+          "url": "board-12-70WPY-reference.png"
+        },
+        "notes": {
+          "url": "board-12-70WPY-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417932911,
+      "number": 56,
+      "shot": "21A",
+      "time": 48100,
+      "lineMileage": 4.027823437138566,
+      "action": "Time slows down.. The ducks tumble out of the hat in the air.",
+      "duration": 500
+    },
+    {
+      "uid": "QENYC",
+      "url": "board-13-QENYC.png",
+      "layers": {
+        "reference": {
+          "url": "board-13-QENYC-reference.png"
+        },
+        "notes": {
+          "url": "board-13-QENYC-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 57,
+      "shot": "21B",
+      "time": 48600,
+      "lineMileage": 12.083470311415681,
+      "duration": 800
+    },
+    {
+      "uid": "KGX2U",
+      "url": "board-14-KGX2U.png",
+      "layers": {
+        "reference": {
+          "url": "board-14-KGX2U-reference.png"
+        },
+        "notes": {
+          "url": "board-14-KGX2U-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 58,
+      "shot": "21C",
+      "time": 49400,
+      "lineMileage": 20.13911718569281,
+      "duration": 1000
+    },
+    {
+      "uid": "ZSEJU",
+      "url": "board-53-ZSEJU.png",
+      "layers": {
+        "reference": {
+          "url": "board-53-ZSEJU-reference.png"
+        },
+        "notes": {
+          "url": "board-53-ZSEJU-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500521157120,
+      "number": 59,
+      "shot": "21D",
+      "time": 50400,
+      "lineMileage": 20.13911718569281,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 1000
+    },
+    {
+      "uid": "K3UDH",
+      "url": "board-58-K3UDH.png",
+      "newShot": true,
+      "lastEdited": 1500572688564,
+      "layers": {
+        "reference": {
+          "url": "board-58-K3UDH-reference.png"
+        },
+        "notes": {
+          "url": "board-58-K3UDH-notes.png"
+        }
+      },
+      "number": 60,
+      "shot": "22A",
+      "time": 51400,
+      "duration": 1000
+    },
+    {
+      "uid": "254ME",
+      "url": "board-55-254ME.png",
+      "newShot": false,
+      "lastEdited": 1500521352737,
+      "layers": {
+        "reference": {
+          "url": "board-55-254ME-reference.png"
+        },
+        "notes": {
+          "url": "board-55-254ME-notes.png"
+        }
+      },
+      "number": 61,
+      "shot": "22B",
+      "time": 52400,
+      "lineMileage": 0,
+      "duration": 1000
+    },
+    {
+      "uid": "KENS0",
+      "url": "board-15-KENS0.png",
+      "layers": {
+        "reference": {
+          "url": "board-15-KENS0-reference.png"
+        },
+        "notes": {
+          "url": "board-15-KENS0-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 62,
+      "shot": "22C",
+      "time": 53400,
+      "lineMileage": 4.027823437138561,
+      "action": "Out of the chaos the ducks turn into a flying V.",
+      "duration": 800
+    },
+    {
+      "uid": "JNQ0S",
+      "url": "board-16-JNQ0S.png",
+      "layers": {
+        "reference": {
+          "url": "board-16-JNQ0S-reference.png"
+        },
+        "notes": {
+          "url": "board-16-JNQ0S-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 63,
+      "shot": "22D",
+      "time": 54200,
+      "lineMileage": 0,
+      "duration": 700
+    },
+    {
+      "uid": "SEFFN",
+      "url": "board-58-SEFFN.png",
+      "newShot": false,
+      "lastEdited": 1500528729110,
+      "layers": {
+        "reference": {
+          "url": "board-58-SEFFN-reference.png"
+        },
+        "notes": {
+          "url": "board-58-SEFFN-notes.png"
+        }
+      },
+      "number": 64,
+      "shot": "22E",
+      "time": 54900,
+      "lineMileage": 0,
+      "duration": 600
+    },
+    {
+      "uid": "YHQDO",
+      "url": "board-17-YHQDO.png",
+      "layers": {
+        "reference": {
+          "url": "board-17-YHQDO-reference.png"
+        },
+        "notes": {
+          "url": "board-17-YHQDO-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 65,
+      "shot": "22F",
+      "time": 55500,
+      "lineMileage": 2053.4380925657347,
+      "duration": 500
+    },
+    {
+      "uid": "881WW",
+      "url": "board-18-881WW.png",
+      "layers": {
+        "reference": {
+          "url": "board-18-881WW-reference.png"
+        },
+        "notes": {
+          "url": "board-18-881WW-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 66,
+      "shot": "22G",
+      "time": 56000,
+      "lineMileage": 0,
+      "dialogue": "*FTTT*",
+      "duration": 400
+    },
+    {
+      "uid": "YLR3X",
+      "url": "board-60-YLR3X.png",
+      "layers": {
+        "reference": {
+          "url": "board-60-YLR3X-reference.png"
+        },
+        "notes": {
+          "url": "board-60-YLR3X-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500528576835,
+      "number": 67,
+      "shot": "22H",
+      "time": 56400,
+      "lineMileage": 2053.4380925657347,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 300
+    },
+    {
+      "uid": "8N8FV",
+      "url": "board-58-8N8FV.png",
+      "layers": {
+        "reference": {
+          "url": "board-58-8N8FV-reference.png"
+        },
+        "notes": {
+          "url": "board-58-8N8FV-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500528429656,
+      "number": 68,
+      "shot": "22I",
+      "time": 56700,
+      "lineMileage": 2053.4380925657347,
+      "dialogue": "",
+      "action": "They land across on the other side of the street.",
+      "notes": "",
+      "duration": 1000
+    },
+    {
+      "uid": "6JNHB",
+      "url": "board-63-6JNHB.png",
+      "newShot": false,
+      "lastEdited": 1500529954812,
+      "layers": {
+        "reference": {
+          "url": "board-63-6JNHB-reference.png"
+        },
+        "notes": {
+          "url": "board-63-6JNHB-notes.png"
+        }
+      },
+      "number": 69,
+      "shot": "22J",
+      "time": 57700,
+      "duration": 500
+    },
+    {
+      "uid": "5POCR",
+      "url": "board-19-5POCR.png",
+      "layers": {
+        "reference": {
+          "url": "board-19-5POCR-reference.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417932911,
+      "number": 70,
+      "shot": "22K",
+      "time": 58200,
+      "duration": 1000
+    },
+    {
+      "uid": "RGVMP",
+      "url": "board-0-RGVMP.png",
+      "layers": {
+        "reference": {
+          "url": "board-0-RGVMP-reference.png"
+        },
+        "notes": {
+          "url": "board-0-RGVMP-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 71,
+      "shot": "22L",
+      "time": 59200,
+      "action": "The worker looks back at the truck.",
+      "duration": 1000
+    },
+    {
+      "uid": "6P82G",
+      "url": "board-68-6P82G.png",
+      "newShot": false,
+      "lastEdited": 1500564495957,
+      "layers": {
+        "reference": {
+          "url": "board-68-6P82G-reference.png"
+        },
+        "notes": {
+          "url": "board-68-6P82G-notes.png"
+        }
+      },
+      "number": 72,
+      "shot": "22M",
+      "time": 60200,
+      "lineMileage": 4392.613102105827,
+      "dialogue": "Oh no!",
+      "duration": 500
+    },
+    {
+      "uid": "4AXCA",
+      "url": "board-1-4AXCA.png",
+      "layers": {
+        "reference": {
+          "url": "board-1-4AXCA-reference.png"
+        },
+        "notes": {
+          "url": "board-1-4AXCA-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417847824,
+      "number": 73,
+      "shot": "23A",
+      "time": 60700,
+      "dialogue": "*HONK HONK*",
+      "duration": 500
+    },
+    {
+      "uid": "H4320",
+      "url": "board-66-H4320.png",
+      "layers": {
+        "reference": {
+          "url": "board-66-H4320-reference.png"
+        },
+        "notes": {
+          "url": "board-66-H4320-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500530466389,
+      "number": 74,
+      "shot": "23B",
+      "time": 61200,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 500
+    },
+    {
+      "uid": "VZH89",
+      "url": "board-68-VZH89.png",
+      "newShot": false,
+      "lastEdited": 1500530608552,
+      "layers": {
+        "reference": {
+          "url": "board-68-VZH89-reference.png"
+        }
+      },
+      "number": 75,
+      "shot": "23C",
+      "time": 61700,
+      "lineMileage": 1204.909955141877,
+      "dialogue": "*VROOM*",
+      "duration": 200
+    },
+    {
+      "uid": "NY5TW",
+      "url": "board-2-NY5TW.png",
+      "layers": {
+        "reference": {
+          "url": "board-2-NY5TW-reference.png"
+        },
+        "notes": {
+          "url": "board-2-NY5TW-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 76,
+      "shot": "23D",
+      "time": 61900,
+      "lineMileage": 38.037468229345336,
+      "duration": 200
+    },
+    {
+      "uid": "QEXGW",
+      "url": "board-76-QEXGW.png",
+      "layers": {
+        "reference": {
+          "url": "board-76-QEXGW-reference.png"
+        },
+        "notes": {
+          "url": "board-76-QEXGW-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500563482024,
+      "number": 77,
+      "shot": "24A",
+      "time": 62100,
+      "lineMileage": 0,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 50
+    },
+    {
+      "uid": "5ZLKN",
+      "url": "board-72-5ZLKN.png",
+      "layers": {
+        "reference": {
+          "url": "board-72-5ZLKN-reference.png"
+        },
+        "notes": {
+          "url": "board-72-5ZLKN-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500562764475,
+      "number": 78,
+      "shot": "24B",
+      "time": 62150,
+      "lineMileage": 5.919963749468751,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 50
+    },
+    {
+      "uid": "PLVSK",
+      "url": "board-72-PLVSK.png",
+      "layers": {
+        "reference": {
+          "url": "board-72-PLVSK-reference.png"
+        },
+        "notes": {
+          "url": "board-72-PLVSK-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500563230593,
+      "number": 79,
+      "shot": "24C",
+      "time": 62200,
+      "lineMileage": 5.919963749468751,
+      "dialogue": "",
+      "action": "The truck whizzes past the worker.",
+      "notes": "",
+      "duration": 50
+    },
+    {
+      "uid": "73DBM",
+      "url": "board-3-73DBM.png",
+      "layers": {
+        "reference": {
+          "url": "board-3-73DBM-reference.png"
+        },
+        "notes": {
+          "url": "board-3-73DBM-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 80,
+      "shot": "24D",
+      "time": 62250,
+      "lineMileage": 5.919963749468751,
+      "duration": 50
+    },
+    {
+      "uid": "QHD1T",
+      "url": "board-4-QHD1T.png",
+      "layers": {
+        "reference": {
+          "url": "board-4-QHD1T-reference.png"
+        },
+        "notes": {
+          "url": "board-4-QHD1T-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 81,
+      "shot": "24E",
+      "time": 62300,
+      "lineMileage": 23.679854997875083,
+      "duration": 50
+    },
+    {
+      "uid": "NNROP",
+      "url": "board-77-NNROP.png",
+      "layers": {
+        "reference": {
+          "url": "board-77-NNROP-reference.png"
+        },
+        "notes": {
+          "url": "board-77-NNROP-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500563926181,
+      "number": 82,
+      "shot": "24F",
+      "time": 62350,
+      "lineMileage": 5.919963749468751,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 50
+    },
+    {
+      "uid": "KGC3I",
+      "url": "board-5-KGC3I.png",
+      "layers": {
+        "reference": {
+          "url": "board-5-KGC3I-reference.png"
+        },
+        "notes": {
+          "url": "board-5-KGC3I-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 83,
+      "shot": "24G",
+      "time": 62400,
+      "lineMileage": 0,
+      "duration": 2000
+    },
+    {
+      "uid": "FHX0E",
+      "url": "board-78-FHX0E.png",
+      "layers": {
+        "reference": {
+          "url": "board-78-FHX0E-reference.png"
+        },
+        "notes": {
+          "url": "board-78-FHX0E-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500564142471,
+      "number": 84,
+      "shot": "24H",
+      "time": 64400,
+      "lineMileage": 0,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 1000
+    },
+    {
+      "uid": "EQOS4",
+      "url": "board-7-EQOS4.png",
+      "layers": {
+        "reference": {
+          "url": "board-7-EQOS4-reference.png"
+        },
+        "notes": {
+          "url": "board-7-EQOS4-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417847824,
+      "number": 85,
+      "shot": "25A",
+      "time": 65400,
+      "lineMileage": 0,
+      "action": "The truck drives into the distance.",
+      "duration": 1000
+    },
+    {
+      "uid": "DU2ZR",
+      "url": "board-81-DU2ZR.png",
+      "layers": {
+        "reference": {
+          "url": "board-81-DU2ZR-reference.png"
+        },
+        "notes": {
+          "url": "board-81-DU2ZR-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500565291050,
+      "number": 86,
+      "shot": "25B",
+      "time": 66400,
+      "lineMileage": 40837.88326508543,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 2000
+    },
+    {
+      "uid": "6R7V2",
+      "url": "board-82-6R7V2.png",
+      "layers": {
+        "reference": {
+          "url": "board-82-6R7V2-reference.png"
+        },
+        "notes": {
+          "url": "board-82-6R7V2-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500565483417,
+      "number": 87,
+      "shot": "25C",
+      "time": 68400,
+      "lineMileage": 29.599818747343917,
+      "dialogue": "",
+      "action": "",
+      "notes": "",
+      "duration": 1000
+    },
+    {
+      "uid": "5F7BH",
+      "url": "board-84-5F7BH.png",
+      "newShot": false,
+      "lastEdited": 1500565858375,
+      "layers": {
+        "reference": {
+          "url": "board-84-5F7BH-reference.png"
+        },
+        "notes": {
+          "url": "board-84-5F7BH-notes.png"
+        }
+      },
+      "number": 88,
+      "shot": "25D",
+      "time": 69400,
+      "lineMileage": 5.919963749468771,
+      "duration": 1000
+    },
+    {
+      "uid": "QVLAJ",
+      "url": "board-83-QVLAJ.png",
+      "layers": {
+        "reference": {
+          "url": "board-83-QVLAJ-reference.png"
+        },
+        "notes": {
+          "url": "board-83-QVLAJ-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500565684875,
+      "number": 89,
+      "shot": "25E",
+      "time": 70400,
+      "lineMileage": 41.43974624628144,
+      "dialogue": "",
+      "action": "Pan back to the reeds.",
+      "notes": "",
+      "duration": 1000
+    },
+    {
+      "uid": "6B3TZ",
+      "url": "board-8-6B3TZ.png",
+      "layers": {
+        "reference": {
+          "url": "board-8-6B3TZ-reference.png"
+        },
+        "notes": {
+          "url": "board-8-6B3TZ-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 90,
+      "shot": "25F",
+      "time": 71400,
+      "lineMileage": 11.839927498937563,
+      "action": "The worker gets up and runs over.",
+      "duration": 1000
+    },
+    {
+      "uid": "78KPZ",
+      "url": "board-9-78KPZ.png",
+      "layers": {
+        "reference": {
+          "url": "board-9-78KPZ-reference.png"
+        },
+        "notes": {
+          "url": "board-9-78KPZ-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 91,
+      "shot": "25G",
+      "time": 72400,
+      "lineMileage": 29.599818747343917,
+      "duration": 300
+    },
+    {
+      "uid": "QA6XF",
+      "url": "board-10-QA6XF.png",
+      "layers": {
+        "reference": {
+          "url": "board-10-QA6XF-reference.png"
+        },
+        "notes": {
+          "url": "board-10-QA6XF-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 92,
+      "shot": "25H",
+      "time": 72700,
+      "lineMileage": 26.333631851085237,
+      "duration": 500
+    },
+    {
+      "uid": "WUKJ0",
+      "url": "board-11-WUKJ0.png",
+      "layers": {
+        "reference": {
+          "url": "board-11-WUKJ0-reference.png"
+        },
+        "notes": {
+          "url": "board-11-WUKJ0-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417847824,
+      "number": 93,
+      "shot": "26A",
+      "time": 73200,
+      "lineMileage": 0,
+      "dialogue": "*FSHH*",
+      "duration": 500
+    },
+    {
+      "uid": "MKPD1",
+      "url": "board-12-MKPD1.png",
+      "layers": {
+        "reference": {
+          "url": "board-12-MKPD1-reference.png"
+        },
+        "notes": {
+          "url": "board-12-MKPD1-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 94,
+      "shot": "26B",
+      "time": 73700,
+      "lineMileage": 11.839927498937541,
+      "dialogue": "Huh!?",
+      "duration": 2000
+    },
+    {
+      "uid": "K26TI",
+      "url": "board-13-K26TI.png",
+      "layers": {
+        "reference": {
+          "url": "board-13-K26TI-reference.png"
+        },
+        "notes": {
+          "url": "board-13-K26TI-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417847824,
+      "number": 95,
+      "shot": "27A",
+      "time": 75700,
+      "lineMileage": 0,
+      "action": "The ducks are swimming in a pond.",
+      "duration": 1500
+    },
+    {
+      "uid": "0GXS8",
+      "url": "board-92-0GXS8.png",
+      "newShot": false,
+      "lastEdited": 1500569213963,
+      "layers": {
+        "reference": {
+          "url": "board-92-0GXS8-reference.png"
+        },
+        "notes": {
+          "url": "board-92-0GXS8-notes.png"
+        }
+      },
+      "number": 96,
+      "shot": "27B",
+      "time": 77200,
+      "lineMileage": 11.83992749893758,
+      "duration": 1500
+    },
+    {
+      "uid": "SNTJX",
+      "url": "board-14-SNTJX.png",
+      "layers": {
+        "reference": {
+          "url": "board-14-SNTJX-reference.png"
+        },
+        "notes": {
+          "url": "board-14-SNTJX-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417847824,
+      "number": 97,
+      "shot": "28A",
+      "time": 78700,
+      "duration": 1000
+    },
+    {
+      "uid": "2ETXW",
+      "url": "board-15-2ETXW.png",
+      "layers": {
+        "reference": {
+          "url": "board-15-2ETXW-reference.png"
+        },
+        "notes": {
+          "url": "board-15-2ETXW-notes.png"
+        }
+      },
+      "newShot": false,
+      "lastEdited": 1500417847824,
+      "number": 98,
+      "shot": "28B",
+      "time": 79700,
+      "lineMileage": 0,
+      "duration": 1500
+    },
+    {
+      "uid": "P5RH2",
+      "url": "board-95-P5RH2.png",
+      "newShot": false,
+      "lastEdited": 1500570240361,
+      "layers": {
+        "reference": {
+          "url": "board-95-P5RH2-reference.png"
+        },
+        "notes": {
+          "url": "board-95-P5RH2-notes.png"
+        }
+      },
+      "number": 99,
+      "shot": "28C",
+      "time": 81200,
+      "dialogue": "*QUACK*",
+      "duration": 400
+    },
+    {
+      "uid": "4MR86",
+      "url": "board-96-4MR86.png",
+      "newShot": false,
+      "lastEdited": 1500570648730,
+      "layers": {
+        "reference": {
+          "url": "board-96-4MR86-reference.png"
+        },
+        "notes": {
+          "url": "board-96-4MR86-notes.png"
+        }
+      },
+      "number": 100,
+      "shot": "28D",
+      "time": 81600,
+      "duration": 2000
+    },
+    {
+      "uid": "2B2ZP",
+      "url": "board-16-2B2ZP.png",
+      "layers": {
+        "reference": {
+          "url": "board-16-2B2ZP-reference.png"
+        },
+        "notes": {
+          "url": "board-16-2B2ZP-notes.png"
+        }
+      },
+      "newShot": true,
+      "lastEdited": 1500417847824,
+      "number": 101,
+      "shot": "29A",
+      "time": 83600,
+      "duration": 2000
+    },
+    {
+      "uid": "PQKJM",
+      "url": "board-98-PQKJM.png",
+      "newShot": false,
+      "lastEdited": 1500571354085,
+      "layers": {
+        "reference": {
+          "url": "board-98-PQKJM-reference.png"
+        },
+        "notes": {
+          "url": "board-98-PQKJM-notes.png"
+        }
+      },
+      "number": 102,
+      "shot": "29B",
+      "time": 85600,
+      "lineMileage": 0,
+      "dialogue": "Hmm :D",
+      "duration": 4000
+    }
+  ]
+}
