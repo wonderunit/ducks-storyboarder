@@ -1,16 +1,16 @@
 # ducks.storyboarder
 
-This is a demonstration short storyboard we made for Storyboarder. Download it and load it up in storyboarder to get a feel for what a storyboarder sequence feels like.
+This is a demonstration short storyboard we made for [Storyboarder](https://wonderunit.com/storyboarder/). Download it and load it up in storyboarder to get a feel for what a storyboarder sequence feels like.
 
 ![ducks-storyboard 2017-07-21 12 57 11](https://user-images.githubusercontent.com/441117/28473827-40125556-6e14-11e7-9f5f-1165803633fe.gif)
 
-[Download ducks.storyboarder](https://github.com/wonderunit/ducks-storyboarder/archive/master.zip) [43 MB]
+[Download ducks.storyboarder](https://github.com/wonderunit/ducks-storyboarder/archive/master.zip) [43 MB] | [Download Storyboarder for Mac/Win/Linux](https://wonderunit.com/storyboarder/)
 
 ## Process
 
 ### 1. Idea
 
-Outside of our office, theres a duck pond next to a construction site. One day, one of the construction workers was telling us how a duck had nested in the construction site. When the baby ducklings hatched, he had to get the babies across the street safely to the duck pond.
+Outside of our office, there's a duck pond next to a construction site. One day, one of the construction workers was telling us how a duck had nested in the construction site. When the baby ducklings hatched, he had to get the babies across the street safely to the duck pond.
 
 Nick Sung, Story Artist at Wonder Unit, imagined what that scene might be like in this wonderful short sequence.
 
@@ -26,6 +26,7 @@ Nick Sung, Story Artist at Wonder Unit, imagined what that scene might be like i
 
 ![ducks 2 2017-07-21 01 03 12](https://user-images.githubusercontent.com/441117/28474059-0ee60396-6e15-11e7-88af-92b2f36aff84.gif)
 
+(https://user-images.githubusercontent.com/441117/28474059-0ee60396-6e15-11e7-88af-92b2f36aff84.gif)
 
 ### 4. Refine in storyboarder
 
@@ -39,7 +40,9 @@ open frame in photoshop, make edits save
 
 Nick pitched it to the team
 
-[ video ]
+[![Alt text](https://img.youtube.com/vi/NgkWVmM06AY/0.jpg)](https://www.youtube.com/watch?v=NgkWVmM06AY)
+
+https://www.youtube.com/watch?v=NgkWVmM06AY
 
 ### 7. Put in timing and dialogue, metadata
 
