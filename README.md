@@ -6,11 +6,11 @@ This is a demonstration short storyboard we made for Storyboarder. Download it a
 
 [ link to download zip of the file ]
 
-Outside of our office, theres a duck pond next to a construction site. One day, one of the construction workers was telling us how a duck had nested in the construction site. When the baby ducklings hatched, he had to get the babies across the street safely to the duck pond.
-
 ## Process
 
 ### 1. Idea
+
+Outside of our office, theres a duck pond next to a construction site. One day, one of the construction workers was telling us how a duck had nested in the construction site. When the baby ducklings hatched, he had to get the babies across the street safely to the duck pond.
 
 Nick Sung, Story Artist at Wonder Unit, imagined what that scene might be like in this wonderful short sequence.
 
