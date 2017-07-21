@@ -4,7 +4,7 @@ This is a demonstration short storyboard we made for [Storyboarder](https://wond
 
 ![ducks-storyboard 2017-07-21 12 57 11](https://user-images.githubusercontent.com/441117/28473827-40125556-6e14-11e7-9f5f-1165803633fe.gif)
 
-[Download ducks.storyboarder](https://github.com/wonderunit/ducks-storyboarder/archive/master.zip) [43 MB] | [Download Storyboarder for Mac/Win/Linux](https://wonderunit.com/storyboarder/)
+[Download ducks.storyboarder](https://github.com/wonderunit/ducks-storyboarder/archive/master.zip) [43 MB] | [Download Storyboarder App](https://wonderunit.com/storyboarder/) [for Mac/Win/Linux]
 
 ## Process
 
@@ -20,9 +20,11 @@ Nick Sung, Story Artist at Wonder Unit, imagined what that scene might be like i
 
 ### 2. Thumbnail on printed worksheets
 
-[images of worksheets ]
+![image](https://user-images.githubusercontent.com/441117/28475696-5039e23a-6e1b-11e7-96db-f3f7d8527d4d.png)
 
 ### 3. Import printed worksheets
+
+![image](https://user-images.githubusercontent.com/441117/28475945-38a0cd72-6e1c-11e7-981a-4879af2a9326.png)
 
 ![ducks 2 2017-07-21 01 03 12](https://user-images.githubusercontent.com/441117/28474059-0ee60396-6e15-11e7-88af-92b2f36aff84.gif)
 
