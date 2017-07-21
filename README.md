@@ -2,9 +2,9 @@
 
 This is a demonstration short storyboard we made for Storyboarder. Download it and load it up in storyboarder to get a feel for what a storyboarder sequence feels like.
 
-[Animated gif]
+![ducks-storyboard 2017-07-21 12 57 11](https://user-images.githubusercontent.com/441117/28473827-40125556-6e14-11e7-9f5f-1165803633fe.gif)
 
-[ link to download zip of the file ]
+[Download ducks.storyboarder](https://github.com/wonderunit/ducks-storyboarder/archive/master.zip) [43 MB]
 
 ## Process
 
@@ -24,7 +24,8 @@ Nick Sung, Story Artist at Wonder Unit, imagined what that scene might be like i
 
 ### 3. Import printed worksheets
 
-[ gif of imported worksheet animation]
+![ducks 2 2017-07-21 01 03 12](https://user-images.githubusercontent.com/441117/28474059-0ee60396-6e15-11e7-88af-92b2f36aff84.gif)
+
 
 ### 4. Refine in storyboarder
 
