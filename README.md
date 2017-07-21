@@ -26,8 +26,6 @@ Nick Sung, Story Artist at Wonder Unit, imagined what that scene might be like i
 
 ![ducks 2 2017-07-21 01 03 12](https://user-images.githubusercontent.com/441117/28474059-0ee60396-6e15-11e7-88af-92b2f36aff84.gif)
 
-(https://user-images.githubusercontent.com/441117/28474059-0ee60396-6e15-11e7-88af-92b2f36aff84.gif)
-
 ### 4. Refine in storyboarder
 
 add remove frames, draw to make it clearer
