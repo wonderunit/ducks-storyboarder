@@ -2,7 +2,7 @@
 
 This is a demonstration short storyboard we made for [Storyboarder](https://wonderunit.com/storyboarder/). Download it and load it up in storyboarder to get a feel for what a storyboarder sequence feels like.
 
-![ducks-storyboard 2017-07-21 12 57 11](https://user-images.githubusercontent.com/441117/28473827-40125556-6e14-11e7-9f5f-1165803633fe.gif)
+![ducks-storyboard 2017-07-31 10 49 13](https://user-images.githubusercontent.com/441117/28807298-cfa4d6cc-7642-11e7-9f08-b85800644367.gif)
 
 [Download ducks.storyboarder](https://github.com/wonderunit/ducks-storyboarder/archive/master.zip) [43 MB] | [Download Storyboarder App](https://wonderunit.com/storyboarder/) [for Mac/Win/Linux]
 
